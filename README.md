@@ -1,12 +1,5 @@
-# Hey, i'm Nivv!
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=✦%20HEY,%20I'M%20A%20DESIGNER%20&%20VIDEO%20EDITOR%20✦&fontSize=32&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1A1A1A&center=true&vcenter=true&width=500&height=50&lines=Visual+Designer+%26+Motion+Creator;Student+at+IThub+Vladivostok;Crafting+digital+experiences+%26+video+edits" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=✦%20HEY,%20I'M%20%20%20&%20%20Nivv!%20✦&fontSize=32&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 ---
@@ -20,7 +13,7 @@
       ✨ <b>Creative Craftsman & Visual Storyteller</b><br/><br/>
       🎓 Currently studying & growing at <b>IThub Vladivostok</b><br/>
       ✂️ Passionate about <b>Motion Design, Video Editing & Graphic Design</b><br/>
-      💡 Constantly exploring new aesthetics, visual effects, and UI layouts<br/>
+      💡 Wide stack of skills<br/>
       🎯 Focused on high-impact media production and video post-production<br/>
       <br/>
     </td>
