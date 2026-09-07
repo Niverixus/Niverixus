@@ -1,79 +1,76 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=✦%20HEY,%20I'M%20%20%20%20%20NIVV!%20✦&fontSize=32&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header&text=terminal%20--%20zsh%20--%2080x24&fontSize=18&fontColor=888888" width="100%" />
 </p>
 
----
+```bash
+guest@ithub-vladivostok:~ $ whoami
+> Creative Designer & Video Editor
 
-### 🎨 About Me
+guest@ithub-vladivostok:~ $ location
+> Vladivostok, Russia
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <br />
-      ✨ <b>Creative Craftsman & Visual Storyteller</b><br/><br/>
-      🎓 Currently studying & growing at <b>IThub Vladivostok</b><br/>
-      ✂️ Passionate about <b>Motion Design, Video Editing & Graphic Design</b><br/>
-      💡 Wide stack of skills<br/>
-      🎯 Focused on high-impact media production and video post-production<br/>
-      <br/>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Niverixus/Niverixus/refs/heads/main/pfp.jpg?q=80&w=400&auto=format&fit=crop" width="220px" style="border-radius:12px;" alt="Aesthetic Graphic"/>
-    </td>
-  </tr>
-</table>
+guest@ithub-vladivostok:~ $ status
+> Student @ IThub Vladivostok | Crafting visual content & video post-production
+```
 
 ---
 
-### 🛠️ Creative Toolkit
+### ┌──(guest㉿ithub)-[~/about]
+### └─$ cat profile_info.txt
 
-<p align="center">
-  <!-- Design & Video Editing Badges -->
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-999999?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=DaVinciResolve&logoColor=white" />
-</p>
+```yaml
+OS: IThub OS x86_64
+Host: Vladivostok Campus
+Uptime: Learning & Creating 24/7
+Shell: zsh 5.9
+Focus: Video Editing, Motion Design, Visual Arts
+Software: Premiere Pro, After Effects, Photoshop, Figma, DaVinci Resolve
+```
 
 ---
 
-### ⚡ Interactive Spot & Status
+### ┌──(guest㉿ithub)-[~/commands]
+### └─$ ./run_interactive_modules.sh
 
 <details>
-  <summary><b> 🔍 Misc info </b></summary>
+  <summary><b>$ ./show_skills.sh --verbose (Нажми, чтобы развернуть)</b></summary>
   <br/>
+
+  #### 🎬 Video Post-Production & Motion
+  - **Editing:** Adobe Premiere Pro, DaVinci Resolve
+  - **VFX & Motion:** Adobe After Effects
   
-  - 📍 **Location:** Vladivostok
-  - 🏫 **Academy:** IThub College
-  - 💻 **Primary Workstation:** GTX 1660S + i5-11400f
-
+  #### 🎨 Graphic & Visual Design
+  - **Layout & Assets:** Adobe Photoshop, Figma
+  - **Specialties:** Composition, Visual Identity, Color Grading
 </details>
 
 <details>
-  <summary><b>🎨 Quick stats! </b></summary>
+  <summary><b>$ cat ./education_and_goals.md (Нажми, чтобы развернуть)</b></summary>
   <br/>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Niverixus&theme=neutral&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niverixus&theme=neutral" alt="GitHub Streak" width="48%" />
-  </p>
-
+  - 🏫 **Academy:** IThub Vladivostok
+  - 🎯 **Current Objective:** Developing high-end motion graphics, commercial edits, and digital designs.
+  - ⚡ **Workflow:** Conceptualizing -> Storyboarding -> Cutting & VFX -> Color & Sound
 </details>
 
 ---
 
-### 🤝 Connect With Me
+### ┌──(guest㉿ithub)-[~/connect]
+### └─$ ./contact_me.sh
 
-<p align="center">
-  <a href="https://t.me/kra_v">
-    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=black" />
+<p align="left">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://t.me/aarch32">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=80&section=footer" width="100%" />
 </p>
