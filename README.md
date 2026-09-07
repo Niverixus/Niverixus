@@ -64,8 +64,8 @@
   <br/>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=github&theme=neutral&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=github&theme=neutral" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Niverixus&theme=neutral&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niverixus&theme=neutral" alt="GitHub Streak" width="48%" />
   </p>
 
 </details>
@@ -75,14 +75,11 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="#">
+  <a href="https://t.me/kra_v">
     <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
-  <a href="#">
+  <a href="https://telegram.org/@aarch32">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 </p>
 
