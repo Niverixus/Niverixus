@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=✦%20HEY,%20I'M%20%20%20&%20%20Nivv!%20✦&fontSize=32&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=✦%20HEY,%20I'M%20%20%20%20%20NIVV!%20✦&fontSize=32&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
       <br/>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=400&auto=format&fit=crop" width="220px" style="border-radius:12px;" alt="Aesthetic Graphic"/>
+      <img src="https://raw.githubusercontent.com/Niverixus/Niverixus/refs/heads/main/pfp.jpg?q=80&w=400&auto=format&fit=crop" width="220px" style="border-radius:12px;" alt="Aesthetic Graphic"/>
     </td>
   </tr>
 </table>
@@ -41,19 +41,17 @@
 ### ⚡ Interactive Spot & Status
 
 <details>
-  <summary><b>🔍 Click to expand my current focus & setup!</b></summary>
+  <summary><b> 🔍 Misc info </b></summary>
   <br/>
   
   - 📍 **Location:** Vladivostok
   - 🏫 **Academy:** IThub College
-  - 🎬 **Primary Workstation Tool:** Premiere Pro & After Effects
-  - 🎧 **Editing Vibe:** Lo-Fi, Synthwave, Hip-Hop
-  - 🚀 **Goals:** Crafting industry-standard video promos and high-level graphic branding.
+  - 💻 **Primary Workstation:** GTX 1660S + i5-11400f
 
 </details>
 
 <details>
-  <summary><b>🎨 Click to check out quick stats!</b></summary>
+  <summary><b>🎨 Quick stats! </b></summary>
   <br/>
 
   <p align="center">
@@ -71,7 +69,7 @@
   <a href="https://t.me/kra_v">
     <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
-  <a href="https://telegram.org/@aarch32">
+  <a href="https://t.me/aarch32">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
