@@ -1,4 +1,4 @@
-# <align="center">
+# Hey, i'm Nivv!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=✦%20HEY,%20I'M%20A%20DESIGNER%20&%20VIDEO%20EDITOR%20✦&fontSize=32&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
